@@ -1,0 +1,17 @@
+.app__contact{
+    background-color: rgb(246, 244, 241);
+    display: flex;
+    padding: 15rem;
+    flex-direction: column;
+    justify-content: space-between;
+    
+}
+.contactus {
+    padding: 2rem;
+    font-size: 1.4rem;
+    font-family: sans-serif;
+    font-weight: 600;
+    text-decoration: none;
+    line-height: 1.5;
+    text-align: left;
+}

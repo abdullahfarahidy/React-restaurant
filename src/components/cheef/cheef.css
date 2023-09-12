@@ -1,0 +1,43 @@
+.app__home-chef{
+    display: flex;
+        margin-bottom: 3rem;
+        margin-left: 1rem; 
+        margin-right: 1rem;
+        background-color: rgba(235, 228, 219, 0.8);
+        padding: 2rem;
+        border-radius: 20%;
+        text-align: center;
+        justify-content: space-between;
+        flex-direction: column;
+
+}
+.space{
+    margin: 4rem;
+}
+.app__chef{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.chefalign{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.chefalign h1 {
+    font-size: xx-large;
+    font-weight: 700;
+    font-family:'Times New Roman', Times, serif;
+    margin-left: 1rem;
+    margin-top: 1rem;
+    padding-top: 2rem;
+    text-shadow: 1px 1px 1px gray;
+}
+.chefont{
+    margin-top: 1rem;
+    padding: 0.5rem;
+    font-weight: lighter;
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

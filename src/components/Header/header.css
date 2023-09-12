@@ -1,0 +1,29 @@
+.headerst{
+    display: flex;
+    margin-top: 1rem;
+    font-family: sans-serif;
+    color: black;
+    font-style: normal;
+    text-align: center;
+    text-shadow: 1px 1px 1px gray;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.headingfont{
+font-weight: 500;
+font-size: larger;
+}
+
+
+.app__header{
+    display: flex;
+   margin-top: 7rem;
+   margin-left: 1rem;
+   margin-right: 1rem;
+background-color:  rgba(240, 229, 229, 0.6);
+padding: 2rem;
+border-radius: 20%;
+text-align: center;
+justify-content: center;
+
+}
