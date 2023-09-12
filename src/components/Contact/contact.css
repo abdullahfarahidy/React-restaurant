@@ -15,3 +15,36 @@
     line-height: 1.5;
     text-align: left;
 }
+
+@media screen and (max-width: 2000px) {
+      .app__contact{
+        padding: 12rem 3rem;
+      }
+      .contactus{
+        padding: 1rem;
+        font-size: large;
+      }
+}
+
+@media screen and (max-width: 1150px) {
+    .app__contact {
+            padding: 12rem 2rem;
+        }
+    
+        .contactus {
+            padding: 1rem;
+            font-size: large;
+        }
+
+}
+
+@media screen and (max-width: 650px) {
+    .app__contact {
+            padding: 12rem 2rem;
+        }
+    
+        .contactus {
+            padding: 1rem;
+            font-size: medium;
+        }
+}
