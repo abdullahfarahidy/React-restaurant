@@ -6,9 +6,7 @@ This project is a website for Taste Algeria, an Algerian restaurant. The site wa
 ## Key Features
 Responsive design adapting to mobile, tablet and desktop screens
 
-Homepage with hero section, about content and menu items
-
-Individual menu item pages with photos and descriptions
+awesome Menu page with beautiful icons refeering to each section
 
 Book a Table form allowing reservations
 
@@ -19,6 +17,8 @@ Contact page with contact info
 Menu Page which contain all offered algerian dishes
 
 Login/Register forms.
+
+Nice footer design showing restaurant active hours and social media .
 
 
 ## Install dependencies
